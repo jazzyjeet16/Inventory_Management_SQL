@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT 'categories' table_name, COUNT(*) total_records FROM categories UNION ALL SELECT 'suppliers',COUNT(*) FROM suppliers UNION ALL SELECT 'warehouses',COUNT(*) FROM warehouses UNION ALL SELECT 'products',COUNT(*) FROM products UNION ALL SELECT 'purchase_orders',COUNT(*) FROM purchase_orders UNION ALL SELECT 'purchase_order_items',COUNT(*) FROM purchase_order_items UNION ALL SELECT 'stock_movements',COUNT(*) FROM stock_movements;

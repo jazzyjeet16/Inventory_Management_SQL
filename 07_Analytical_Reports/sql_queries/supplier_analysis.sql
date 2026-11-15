@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT s.supplier_id,s.supplier_name,COUNT(DISTINCT po.purchase_order_id) total_orders,SUM(poi.quantity_ordered) total_quantity_ordered,ROUND(SUM(poi.quantity_ordered*poi.unit_cost),2) total_purchase_value FROM suppliers s JOIN purchase_orders po ON s.supplier_id=po.supplier_id JOIN purchase_order_items poi ON po.purchase_order_id=poi.purchase_order_id GROUP BY s.supplier_id,s.supplier_name HAVING total_purchase_value>0 ORDER BY total_purchase_value DESC;

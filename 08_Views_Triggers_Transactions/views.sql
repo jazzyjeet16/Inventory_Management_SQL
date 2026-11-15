@@ -1,0 +1,3 @@
+USE inventory_db;
+CREATE OR REPLACE VIEW vw_warehouse_inventory_value AS SELECT w.warehouse_id,w.warehouse_name,COUNT(DISTINCT ws.product_id) total_products,SUM(ws.quantity_on_hand) total_units,ROUND(SUM(ws.quantity_on_hand*p.unit_cost),2) inventory_cost_value FROM warehouse_stock ws JOIN warehouses w ON ws.warehouse_id=w.warehouse_id JOIN products p ON ws.product_id=p.product_id GROUP BY w.warehouse_id,w.warehouse_name;
+CREATE OR REPLACE VIEW vw_reorder_list AS SELECT p.product_id,p.sku,p.product_name,p.reorder_level,COALESCE(SUM(ws.quantity_on_hand),0) available_stock FROM products p LEFT JOIN warehouse_stock ws ON p.product_id=ws.product_id GROUP BY p.product_id,p.sku,p.product_name,p.reorder_level HAVING available_stock<=p.reorder_level;

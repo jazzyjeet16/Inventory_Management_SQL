@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT DATE_FORMAT(movement_date,'%Y-%m') movement_month,COUNT(*) total_movements,SUM(CASE WHEN movement_type='IN' THEN quantity ELSE 0 END) total_stock_in,SUM(CASE WHEN movement_type='OUT' THEN quantity ELSE 0 END) total_stock_out,SUM(CASE WHEN movement_type='IN' THEN quantity ELSE -quantity END) net_stock_change FROM stock_movements GROUP BY DATE_FORMAT(movement_date,'%Y-%m') ORDER BY movement_month;

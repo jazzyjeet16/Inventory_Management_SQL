@@ -1,0 +1,9 @@
+﻿warehouse_id,warehouse_name,address,city,state,capacity_units,status
+1,Kolkata Central,"Industrial Area, Sector 1",Kolkata,West Bengal,8000,ACTIVE
+2,Howrah Storage,"Industrial Area, Sector 2",Howrah,West Bengal,15000,ACTIVE
+3,Delhi North Hub,"Industrial Area, Sector 3",Delhi,Delhi,15000,ACTIVE
+4,Mumbai West Hub,"Industrial Area, Sector 4",Mumbai,Maharashtra,5000,ACTIVE
+5,Bengaluru South Hub,"Industrial Area, Sector 5",Bengaluru,Karnataka,15000,ACTIVE
+6,Chennai Port Warehouse,"Industrial Area, Sector 6",Chennai,Tamil Nadu,8000,ACTIVE
+7,Hyderabad Distribution,"Industrial Area, Sector 7",Hyderabad,Telangana,15000,ACTIVE
+8,Siliguri Regional Hub,"Industrial Area, Sector 8",Siliguri,West Bengal,12000,ACTIVE

@@ -1,0 +1,21 @@
+﻿supplier_id,supplier_name,contact_person,email,phone,city,state,status
+1,TechNova Distributors,Contact 01,sales01@supplier.example,9786579303,Kolkata,West Bengal,ACTIVE
+2,Eastern Digital Supply,Contact 02,sales02@supplier.example,9219540831,Howrah,West Bengal,ACTIVE
+3,Metro Electronics Pvt Ltd,Contact 03,sales03@supplier.example,9126855092,Delhi,Delhi,ACTIVE
+4,Prime Components,Contact 04,sales04@supplier.example,9896233790,Mumbai,Maharashtra,ACTIVE
+5,SmartWare Wholesale,Contact 05,sales05@supplier.example,9395310485,Bengaluru,Karnataka,ACTIVE
+6,NextGen Imports,Contact 06,sales06@supplier.example,9362950628,Chennai,Tamil Nadu,ACTIVE
+7,Universal Devices,Contact 07,sales07@supplier.example,9339670711,Hyderabad,Telangana,ACTIVE
+8,Apex Office Solutions,Contact 08,sales08@supplier.example,9249827706,Pune,Maharashtra,ACTIVE
+9,BlueChip Traders,Contact 09,sales09@supplier.example,9890779946,Kolkata,West Bengal,ACTIVE
+10,Digital World Supply,Contact 10,sales10@supplier.example,9210053353,Jaipur,Rajasthan,ACTIVE
+11,Vertex Technologies,Contact 11,sales11@supplier.example,9826600539,Noida,Uttar Pradesh,ACTIVE
+12,Omni Retail Supply,Contact 12,sales12@supplier.example,9895285932,Ahmedabad,Gujarat,ACTIVE
+13,Brightline Electronics,Contact 13,sales13@supplier.example,9685582861,Lucknow,Uttar Pradesh,ACTIVE
+14,CoreTech Wholesale,Contact 14,sales14@supplier.example,9193349856,Gurugram,Haryana,ACTIVE
+15,Galaxy Distributors,Contact 15,sales15@supplier.example,9734036506,Bhubaneswar,Odisha,ACTIVE
+16,ProConnect Systems,Contact 16,sales16@supplier.example,9553035110,Patna,Bihar,ACTIVE
+17,FutureLink Traders,Contact 17,sales17@supplier.example,9134126396,Siliguri,West Bengal,ACTIVE
+18,Everest Components,Contact 18,sales18@supplier.example,9131994523,Guwahati,Assam,INACTIVE
+19,Zenith Supplies,Contact 19,sales19@supplier.example,9200604502,Indore,Madhya Pradesh,ACTIVE
+20,RapidTech Distribution,Contact 20,sales20@supplier.example,9334760738,Nagpur,Maharashtra,ACTIVE

@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,total_products,total_units,inventory_cost_value,potential_selling_value
+4,Mumbai West Hub,17,870,17114053.07,21169529.92
+5,Bengaluru South Hub,20,879,13796989.37,17040343.82
+3,Delhi North Hub,18,672,11500786.33,14036292.02
+2,Howrah Storage,16,642,10228706.08,12490255.95
+1,Kolkata Central,15,562,9567572.2,11860534.39
+6,Chennai Port Warehouse,12,595,9511927.91,12227282.04
+8,Siliguri Regional Hub,17,610,9055965.04,11280039.25
+7,Hyderabad Distribution,17,661,8659405.6,10712796.32

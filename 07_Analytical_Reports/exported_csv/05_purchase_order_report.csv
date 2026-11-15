@@ -1,0 +1,51 @@
+purchase_order_id,order_date,status,supplier_name,warehouse_name,product_name,quantity_ordered,quantity_received,unit_cost,line_total
+1,2026-10-18,DRAFT,Omni Retail Supply,Delhi North Hub,Lite Monitor 49,61,0,20181.56,1231075.16
+1,2026-10-18,DRAFT,Omni Retail Supply,Delhi North Hub,Ultra Power Strip 45,7,0,2408.58,16860.06
+2,2026-01-10,APPROVED,SmartWare Wholesale,Chennai Port Warehouse,Smart Adapter 33,47,0,22791.64,1071207.08
+2,2026-01-10,APPROVED,SmartWare Wholesale,Chennai Port Warehouse,Pro Tablet 40,69,0,10224.03,705458.07
+3,2026-04-22,PARTIALLY_RECEIVED,Omni Retail Supply,Mumbai West Hub,Bluetooth Earbuds A,35,17,2499.0,87465.0
+3,2026-04-22,PARTIALLY_RECEIVED,Omni Retail Supply,Mumbai West Hub,Smart Adapter 28,75,37,4090.01,306750.75
+4,2026-09-14,RECEIVED,Omni Retail Supply,Delhi North Hub,Vision Power Strip 44,44,44,7950.63,349827.72
+4,2026-09-14,RECEIVED,Omni Retail Supply,Delhi North Hub,Eco Headset 29,25,25,16344.18,408604.5
+5,2026-03-14,CANCELLED,NextGen Imports,Kolkata Central,SSD 1TB,30,0,6999.0,209970.0
+5,2026-03-14,CANCELLED,NextGen Imports,Kolkata Central,Eco Camera 48,65,0,40695.15,2645184.75
+6,2026-07-22,DRAFT,Vertex Technologies,Mumbai West Hub,Mechanical Keyboard,8,0,3499.0,27992.0
+6,2026-07-22,DRAFT,Vertex Technologies,Mumbai West Hub,Eco Headset 29,38,0,16344.18,621078.84
+7,2026-02-13,APPROVED,NextGen Imports,Kolkata Central,Laptop Pro 14,36,0,58999.0,2123964.0
+7,2026-02-13,APPROVED,NextGen Imports,Kolkata Central,Lite Monitor 49,36,0,20181.56,726536.16
+8,2026-04-15,PARTIALLY_RECEIVED,Apex Office Solutions,Chennai Port Warehouse,Lite Mouse 31,14,7,6894.34,96520.76
+8,2026-04-15,PARTIALLY_RECEIVED,Apex Office Solutions,Chennai Port Warehouse,Turbo Mouse 54,40,20,9187.75,367510.0
+9,2026-04-01,RECEIVED,Apex Office Solutions,Mumbai West Hub,Vision Speaker 30,58,58,28727.0,1666166.0
+9,2026-04-01,RECEIVED,Apex Office Solutions,Mumbai West Hub,Vision Keyboard 50,71,71,25112.56,1782991.76
+10,2026-05-03,CANCELLED,Vertex Technologies,Bengaluru South Hub,Ultra Scanner 57,78,0,12048.52,939784.56
+10,2026-05-03,CANCELLED,Vertex Technologies,Bengaluru South Hub,Max UPS 32,35,0,38356.49,1342477.15
+11,2026-07-22,DRAFT,FutureLink Traders,Chennai Port Warehouse,Power Bank 20000mAh,54,0,1799.0,97146.0
+11,2026-07-22,DRAFT,FutureLink Traders,Chennai Port Warehouse,Laser Printer,61,0,14999.0,914939.0
+12,2026-05-06,APPROVED,Prime Components,Bengaluru South Hub,Max UPS 32,56,0,38356.49,2147963.44
+12,2026-05-06,APPROVED,Prime Components,Bengaluru South Hub,Refrigerator 260L,41,0,31999.0,1311959.0
+13,2026-10-14,PARTIALLY_RECEIVED,Prime Components,Chennai Port Warehouse,External HDD 2TB,23,11,5999.0,137977.0
+13,2026-10-14,PARTIALLY_RECEIVED,Prime Components,Chennai Port Warehouse,External HDD 2TB,39,19,5999.0,233961.0
+14,2026-10-17,RECEIVED,CoreTech Wholesale,Howrah Storage,Prime Projector 42,5,5,19774.4,98872.0
+14,2026-10-17,RECEIVED,CoreTech Wholesale,Howrah Storage,Max Keyboard 22,45,45,16150.64,726778.8
+15,2026-04-09,CANCELLED,Zenith Supplies,Kolkata Central,Max UPS 58,18,0,38052.44,684943.92
+15,2026-04-09,CANCELLED,Zenith Supplies,Kolkata Central,Max UPS 58,74,0,38052.44,2815880.56
+16,2026-09-18,DRAFT,TechNova Distributors,Mumbai West Hub,Vision Keyboard 50,59,0,25112.56,1481641.04
+16,2026-09-18,DRAFT,TechNova Distributors,Mumbai West Hub,Bluetooth Earbuds A,22,0,2499.0,54978.0
+17,2026-02-22,APPROVED,CoreTech Wholesale,Chennai Port Warehouse,SSD 1TB,27,0,6999.0,188973.0
+17,2026-02-22,APPROVED,CoreTech Wholesale,Chennai Port Warehouse,Mechanical Keyboard,34,0,3499.0,118966.0
+18,2026-05-17,PARTIALLY_RECEIVED,Prime Components,Bengaluru South Hub,Turbo UPS 52,71,35,8816.81,625993.51
+18,2026-05-17,PARTIALLY_RECEIVED,Prime Components,Bengaluru South Hub,Pro Dock 25,24,12,17027.97,408671.28
+19,2026-07-23,RECEIVED,Vertex Technologies,Bengaluru South Hub,Vision Speaker 30,11,11,28727.0,315997.0
+19,2026-07-23,RECEIVED,Vertex Technologies,Bengaluru South Hub,Smart Router 46,32,32,20372.13,651908.16
+20,2026-04-14,CANCELLED,SmartWare Wholesale,Hyderabad Distribution,Neo Scanner 36,36,0,22303.52,802926.72
+20,2026-04-14,CANCELLED,SmartWare Wholesale,Hyderabad Distribution,Refrigerator 260L,58,0,31999.0,1855942.0
+21,2026-10-10,DRAFT,RapidTech Distribution,Hyderabad Distribution,Max Monitor 59,20,0,32455.44,649108.8
+21,2026-10-10,DRAFT,RapidTech Distribution,Hyderabad Distribution,Smart Scanner 27,47,0,31450.22,1478160.34
+22,2026-05-10,APPROVED,TechNova Distributors,Mumbai West Hub,Vision Speaker 30,22,0,28727.0,631994.0
+22,2026-05-10,APPROVED,TechNova Distributors,Mumbai West Hub,Turbo Keyboard 35,64,0,34327.99,2196991.36
+23,2026-10-21,PARTIALLY_RECEIVED,Zenith Supplies,Chennai Port Warehouse,Turbo UPS 52,64,32,8816.81,564275.84
+23,2026-10-21,PARTIALLY_RECEIVED,Zenith Supplies,Chennai Port Warehouse,Smart Scanner 27,12,6,31450.22,377402.64
+24,2026-08-22,RECEIVED,Galaxy Distributors,Mumbai West Hub,Ultra Monitor 43,72,72,33684.51,2425284.72
+24,2026-08-22,RECEIVED,Galaxy Distributors,Mumbai West Hub,USB-C Charger 65W,58,58,1299.0,75342.0
+25,2026-03-22,CANCELLED,ProConnect Systems,Howrah Storage,Neo Scanner 36,45,0,22303.52,1003658.4
+25,2026-03-22,CANCELLED,ProConnect Systems,Howrah Storage,Pro Dock 25,79,0,17027.97,1345209.63

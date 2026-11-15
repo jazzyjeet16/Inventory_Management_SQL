@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT w.warehouse_id,w.warehouse_name,COUNT(DISTINCT ws.product_id) total_products,SUM(ws.quantity_on_hand) total_units,ROUND(SUM(ws.quantity_on_hand*p.unit_cost),2) inventory_cost_value,ROUND(SUM(ws.quantity_on_hand*p.selling_price),2) potential_selling_value FROM warehouse_stock ws JOIN warehouses w ON ws.warehouse_id=w.warehouse_id JOIN products p ON ws.product_id=p.product_id GROUP BY w.warehouse_id,w.warehouse_name ORDER BY inventory_cost_value DESC;

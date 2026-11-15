@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT po.purchase_order_id,po.order_date,po.status,s.supplier_name,w.warehouse_name,p.product_name,poi.quantity_ordered,poi.quantity_received,poi.unit_cost,ROUND(poi.quantity_ordered*poi.unit_cost,2) line_total FROM purchase_orders po JOIN suppliers s ON po.supplier_id=s.supplier_id JOIN warehouses w ON po.warehouse_id=w.warehouse_id JOIN purchase_order_items poi ON po.purchase_order_id=poi.purchase_order_id JOIN products p ON poi.product_id=p.product_id ORDER BY po.order_date DESC,po.purchase_order_id;

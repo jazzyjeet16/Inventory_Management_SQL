@@ -1,0 +1,151 @@
+﻿movement_id,product_id,warehouse_id,movement_type,quantity,unit_cost,movement_date,reference_type,reference_id,remarks
+1,1,2,IN,83,15999.00,2026-07-16,OPENING,,Opening stock receipt
+2,2,3,IN,10,22999.00,2026-06-10,OPENING,,Opening stock receipt
+3,3,4,IN,59,58999.00,2026-07-18,OPENING,,Opening stock receipt
+4,4,5,IN,79,28999.00,2026-10-08,OPENING,,Opening stock receipt
+5,5,6,IN,72,31999.00,2026-04-09,OPENING,,Opening stock receipt
+6,6,7,IN,65,2499.00,2026-08-01,OPENING,,Opening stock receipt
+7,7,8,IN,59,3999.00,2026-06-22,OPENING,,Opening stock receipt
+8,8,1,IN,96,4999.00,2026-07-24,OPENING,,Opening stock receipt
+9,9,2,IN,31,1899.00,2026-08-05,OPENING,,Opening stock receipt
+10,10,3,IN,89,3499.00,2026-09-01,OPENING,,Opening stock receipt
+11,11,4,IN,60,899.00,2026-10-19,OPENING,,Opening stock receipt
+12,12,5,IN,94,4599.00,2026-01-03,OPENING,,Opening stock receipt
+13,13,6,IN,92,1799.00,2026-07-05,OPENING,,Opening stock receipt
+14,14,7,IN,69,1299.00,2026-03-02,OPENING,,Opening stock receipt
+15,15,8,IN,43,6999.00,2026-07-11,OPENING,,Opening stock receipt
+16,16,1,IN,37,5999.00,2026-08-11,OPENING,,Opening stock receipt
+17,17,2,IN,53,2199.00,2026-07-09,OPENING,,Opening stock receipt
+18,18,3,IN,63,14999.00,2026-05-03,OPENING,,Opening stock receipt
+19,19,4,IN,70,3299.00,2026-01-24,OPENING,,Opening stock receipt
+20,20,5,IN,79,2799.00,2026-01-12,OPENING,,Opening stock receipt
+21,21,6,IN,38,29680.35,2026-02-25,OPENING,,Opening stock receipt
+22,22,7,IN,93,16150.64,2026-01-25,OPENING,,Opening stock receipt
+23,23,8,IN,13,28245.97,2026-04-07,OPENING,,Opening stock receipt
+24,24,1,IN,12,16122.67,2026-10-05,OPENING,,Opening stock receipt
+25,25,2,IN,40,17027.97,2026-03-16,OPENING,,Opening stock receipt
+26,26,3,IN,95,16797.25,2026-02-19,OPENING,,Opening stock receipt
+27,27,4,IN,37,31450.22,2026-08-23,OPENING,,Opening stock receipt
+28,28,5,IN,42,4090.01,2026-06-06,OPENING,,Opening stock receipt
+29,29,6,IN,87,16344.18,2026-10-24,OPENING,,Opening stock receipt
+30,30,7,IN,24,28727.00,2026-03-10,OPENING,,Opening stock receipt
+31,31,8,IN,23,6894.34,2026-10-01,OPENING,,Opening stock receipt
+32,32,1,IN,49,38356.49,2026-10-22,OPENING,,Opening stock receipt
+33,33,2,IN,58,22791.64,2026-07-23,OPENING,,Opening stock receipt
+34,34,3,IN,35,36942.58,2026-02-19,OPENING,,Opening stock receipt
+35,35,4,IN,98,34327.99,2026-04-04,OPENING,,Opening stock receipt
+36,36,5,IN,99,22303.52,2026-05-22,OPENING,,Opening stock receipt
+37,37,6,IN,86,16937.38,2026-02-19,OPENING,,Opening stock receipt
+38,38,7,IN,15,2968.94,2026-06-18,OPENING,,Opening stock receipt
+39,39,8,IN,64,29816.68,2026-06-03,OPENING,,Opening stock receipt
+40,40,1,IN,74,10224.03,2026-06-01,OPENING,,Opening stock receipt
+41,41,2,IN,63,33018.41,2026-08-04,OPENING,,Opening stock receipt
+42,42,3,IN,65,19774.40,2026-06-21,OPENING,,Opening stock receipt
+43,43,4,IN,68,33684.51,2026-03-14,OPENING,,Opening stock receipt
+44,44,5,IN,32,7950.63,2026-09-21,OPENING,,Opening stock receipt
+45,45,6,IN,44,2408.58,2026-10-18,OPENING,,Opening stock receipt
+46,46,7,IN,71,20372.13,2026-08-14,OPENING,,Opening stock receipt
+47,47,8,IN,85,12194.18,2026-05-11,OPENING,,Opening stock receipt
+48,48,1,IN,41,40695.15,2026-02-09,OPENING,,Opening stock receipt
+49,49,2,IN,67,20181.56,2026-04-25,OPENING,,Opening stock receipt
+50,50,3,IN,69,25112.56,2026-10-20,OPENING,,Opening stock receipt
+51,51,4,IN,95,1956.27,2026-07-11,OPENING,,Opening stock receipt
+52,52,5,IN,13,8816.81,2026-08-11,OPENING,,Opening stock receipt
+53,53,6,IN,33,39039.99,2026-08-07,OPENING,,Opening stock receipt
+54,54,7,IN,55,9187.75,2026-05-11,OPENING,,Opening stock receipt
+55,55,8,IN,45,6877.20,2026-10-23,OPENING,,Opening stock receipt
+56,56,1,IN,45,12783.39,2026-09-01,OPENING,,Opening stock receipt
+57,57,2,IN,76,12048.52,2026-04-03,OPENING,,Opening stock receipt
+58,58,3,IN,40,38052.44,2026-07-16,OPENING,,Opening stock receipt
+59,59,4,IN,81,32455.44,2026-04-23,OPENING,,Opening stock receipt
+60,60,5,IN,70,4964.25,2026-08-15,OPENING,,Opening stock receipt
+61,51,1,IN,19,1956.27,2026-07-23,PURCHASE,8,Supplier replenishment
+62,20,6,IN,38,2799.00,2026-06-14,PURCHASE,24,Supplier replenishment
+63,36,6,IN,34,22303.52,2026-05-10,PURCHASE,9,Supplier replenishment
+64,15,2,IN,25,6999.00,2026-02-24,PURCHASE,18,Supplier replenishment
+65,49,3,IN,35,20181.56,2026-05-24,PURCHASE,19,Supplier replenishment
+66,49,5,IN,17,20181.56,2026-05-08,PURCHASE,12,Supplier replenishment
+67,12,5,OUT,3,4599.00,2026-05-02,ISSUE,,Internal consumption
+68,4,5,IN,13,28999.00,2026-11-25,PURCHASE,16,Supplier replenishment
+69,7,1,IN,35,3999.00,2026-08-15,PURCHASE,11,Supplier replenishment
+70,12,1,IN,35,4599.00,2026-02-03,PURCHASE,13,Supplier replenishment
+71,32,2,IN,8,38356.49,2026-03-05,PURCHASE,19,Supplier replenishment
+72,20,2,IN,12,2799.00,2026-09-25,PURCHASE,14,Supplier replenishment
+73,39,4,IN,29,29816.68,2026-08-15,PURCHASE,10,Supplier replenishment
+74,56,7,IN,44,12783.39,2026-01-20,PURCHASE,24,Supplier replenishment
+75,7,4,IN,21,3999.00,2026-11-03,PURCHASE,6,Supplier replenishment
+76,16,3,IN,15,5999.00,2026-01-14,PURCHASE,15,Supplier replenishment
+77,45,8,IN,19,2408.58,2026-05-23,PURCHASE,10,Supplier replenishment
+78,45,8,OUT,4,2408.58,2026-05-21,ISSUE,,Customer dispatch
+79,38,4,IN,39,2968.94,2026-04-21,PURCHASE,5,Supplier replenishment
+80,59,5,IN,9,32455.44,2026-01-06,PURCHASE,10,Supplier replenishment
+81,39,5,IN,34,29816.68,2026-05-23,PURCHASE,13,Supplier replenishment
+82,18,8,IN,43,14999.00,2026-01-14,PURCHASE,24,Supplier replenishment
+83,21,5,IN,19,29680.35,2026-11-19,PURCHASE,19,Supplier replenishment
+84,2,5,IN,16,22999.00,2026-08-17,PURCHASE,21,Supplier replenishment
+85,29,5,IN,42,16344.18,2026-07-21,PURCHASE,16,Supplier replenishment
+86,6,8,IN,26,2499.00,2026-06-22,PURCHASE,4,Supplier replenishment
+87,55,3,IN,36,6877.20,2026-05-22,PURCHASE,13,Supplier replenishment
+88,53,1,IN,25,39039.99,2026-05-11,PURCHASE,4,Supplier replenishment
+89,50,7,IN,5,25112.56,2026-11-18,PURCHASE,15,Supplier replenishment
+90,27,1,IN,28,31450.22,2026-10-25,PURCHASE,16,Supplier replenishment
+91,41,8,IN,18,33018.41,2026-05-18,PURCHASE,5,Supplier replenishment
+92,60,5,OUT,8,4964.25,2026-02-01,ISSUE,,Customer dispatch
+93,41,4,IN,24,33018.41,2026-09-01,PURCHASE,18,Supplier replenishment
+94,27,2,IN,12,31450.22,2026-08-04,PURCHASE,21,Supplier replenishment
+95,54,3,IN,23,9187.75,2026-09-23,PURCHASE,9,Supplier replenishment
+96,27,8,IN,20,31450.22,2026-08-18,PURCHASE,5,Supplier replenishment
+97,25,4,IN,37,17027.97,2026-03-03,PURCHASE,9,Supplier replenishment
+98,50,7,IN,37,25112.56,2026-05-01,PURCHASE,10,Supplier replenishment
+99,47,5,IN,42,12194.18,2026-11-16,PURCHASE,5,Supplier replenishment
+100,29,8,IN,40,16344.18,2026-09-13,PURCHASE,15,Supplier replenishment
+101,60,6,IN,20,4964.25,2026-10-13,PURCHASE,8,Supplier replenishment
+102,55,7,IN,35,6877.20,2026-07-13,PURCHASE,22,Supplier replenishment
+103,51,3,IN,7,1956.27,2026-03-17,PURCHASE,19,Supplier replenishment
+104,22,2,IN,33,16150.64,2026-02-17,PURCHASE,15,Supplier replenishment
+105,1,3,IN,14,15999.00,2026-02-16,PURCHASE,9,Supplier replenishment
+106,22,7,IN,26,16150.64,2026-11-18,PURCHASE,13,Supplier replenishment
+107,21,8,IN,7,29680.35,2026-10-03,PURCHASE,8,Supplier replenishment
+108,41,5,IN,10,33018.41,2026-07-04,PURCHASE,25,Supplier replenishment
+109,41,2,OUT,5,33018.41,2026-01-02,ISSUE,,Internal consumption
+110,21,1,IN,28,29680.35,2026-07-05,PURCHASE,8,Supplier replenishment
+111,34,7,IN,16,36942.58,2026-03-06,PURCHASE,3,Supplier replenishment
+112,40,7,IN,20,10224.03,2026-08-19,PURCHASE,5,Supplier replenishment
+113,15,8,IN,34,6999.00,2026-05-22,PURCHASE,1,Supplier replenishment
+114,58,8,IN,39,38052.44,2026-03-03,PURCHASE,15,Supplier replenishment
+115,23,5,IN,32,28245.97,2026-05-15,PURCHASE,10,Supplier replenishment
+116,13,7,IN,11,1799.00,2026-04-13,PURCHASE,19,Supplier replenishment
+117,23,5,IN,23,28245.97,2026-01-22,PURCHASE,13,Supplier replenishment
+118,18,1,IN,8,14999.00,2026-10-24,PURCHASE,16,Supplier replenishment
+119,54,5,IN,19,9187.75,2026-10-12,PURCHASE,8,Supplier replenishment
+120,41,4,IN,13,33018.41,2026-11-04,PURCHASE,21,Supplier replenishment
+121,42,1,IN,33,19774.40,2026-01-19,PURCHASE,12,Supplier replenishment
+122,47,3,IN,23,12194.18,2026-06-24,PURCHASE,14,Supplier replenishment
+123,12,4,IN,39,4599.00,2026-06-17,PURCHASE,17,Supplier replenishment
+124,59,5,IN,21,32455.44,2026-08-10,PURCHASE,24,Supplier replenishment
+125,56,6,IN,34,12783.39,2026-02-05,PURCHASE,25,Supplier replenishment
+126,15,7,IN,40,6999.00,2026-06-03,PURCHASE,13,Supplier replenishment
+127,1,5,IN,34,15999.00,2026-06-22,PURCHASE,24,Supplier replenishment
+128,44,5,IN,45,7950.63,2026-06-04,PURCHASE,22,Supplier replenishment
+129,15,8,OUT,6,6999.00,2026-10-08,ISSUE,,Customer dispatch
+130,42,2,IN,34,19774.40,2026-05-21,PURCHASE,14,Supplier replenishment
+131,8,3,IN,7,4999.00,2026-05-16,PURCHASE,4,Supplier replenishment
+132,7,4,IN,13,3999.00,2026-07-15,PURCHASE,12,Supplier replenishment
+133,43,7,IN,14,33684.51,2026-07-21,PURCHASE,4,Supplier replenishment
+134,54,8,IN,22,9187.75,2026-01-23,PURCHASE,12,Supplier replenishment
+135,14,8,IN,20,1299.00,2026-06-04,PURCHASE,22,Supplier replenishment
+136,24,6,IN,22,16122.67,2026-04-04,PURCHASE,15,Supplier replenishment
+137,6,4,IN,43,2499.00,2026-01-02,PURCHASE,11,Supplier replenishment
+138,16,3,IN,18,5999.00,2026-02-25,PURCHASE,18,Supplier replenishment
+139,14,4,IN,19,1299.00,2026-06-25,PURCHASE,5,Supplier replenishment
+140,51,1,OUT,3,1956.27,2026-03-18,ISSUE,,Customer dispatch
+141,17,3,IN,6,2199.00,2026-03-01,PURCHASE,12,Supplier replenishment
+142,51,4,IN,6,1956.27,2026-03-09,PURCHASE,2,Supplier replenishment
+143,9,7,IN,9,1899.00,2026-08-15,PURCHASE,25,Supplier replenishment
+144,24,2,IN,19,16122.67,2026-10-02,PURCHASE,24,Supplier replenishment
+145,51,5,IN,6,1956.27,2026-01-16,PURCHASE,13,Supplier replenishment
+146,28,2,IN,33,4090.01,2026-02-03,PURCHASE,11,Supplier replenishment
+147,39,3,IN,22,29816.68,2026-10-21,PURCHASE,19,Supplier replenishment
+148,36,6,OUT,5,22303.52,2026-08-17,ISSUE,,Internal consumption
+149,39,7,IN,12,29816.68,2026-11-21,PURCHASE,25,Supplier replenishment
+150,36,4,IN,19,22303.52,2026-07-11,PURCHASE,15,Supplier replenishment

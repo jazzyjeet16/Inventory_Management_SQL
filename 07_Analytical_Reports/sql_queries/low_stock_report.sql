@@ -1,0 +1,2 @@
+USE inventory_db;
+SELECT p.product_id,p.sku,p.product_name,p.reorder_level,COALESCE(SUM(ws.quantity_on_hand),0) available_stock,CASE WHEN COALESCE(SUM(ws.quantity_on_hand),0)=0 THEN 'OUT OF STOCK' ELSE 'REORDER REQUIRED' END stock_status FROM products p LEFT JOIN warehouse_stock ws ON p.product_id=ws.product_id GROUP BY p.product_id,p.sku,p.product_name,p.reorder_level HAVING available_stock<=p.reorder_level ORDER BY available_stock;
