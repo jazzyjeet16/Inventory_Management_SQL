@@ -464,4 +464,4 @@ The screenshots supplied so far document database/table listing, table structure
 
 ### Schema-name consistency note
 
-The supplied terminal screenshots visibly show `inventory_management`, while the current SQL scripts use `inventory_db`. Before a clean end-to-end run, choose one schema name and update all `CREATE DATABASE`, `USE`, import and report scripts consistently. The screenshots are retained as supplied.
+The supplied terminal screenshots visibly show `inventory_management`, while the current SQL scripts use `inventory_db`. Before a clean end-to-end run, choose one schema name and update all `CREATE DATABASE`, `USE`, import and report scripts consistently.
